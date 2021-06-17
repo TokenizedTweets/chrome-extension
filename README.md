@@ -1,5 +1,5 @@
 
-# Install an unpacked extension
+# How to Install the Tokenized Tweets plugin (unpacked extension)
 
 ## Important notes
 
